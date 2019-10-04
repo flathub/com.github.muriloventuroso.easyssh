@@ -23,11 +23,12 @@
         "shared-modules/intltool/intltool-0.51.json",
         {
             "name": "libvte",
+            "buildsystem": "meson",
             "sources": [
                 {
                     "type": "archive",
-                    "url": "http://ftp.acc.umu.se/pub/gnome/sources/vte/0.52/vte-0.52.2.tar.xz",
-                    "sha256": "0f2657cef52accbfe56feede553155552d7c1984b1291838af3cb8cfc19b26af"
+                    "url": "http://ftp.acc.umu.se/pub/gnome/sources/vte/0.58/vte-0.58.0.tar.xz",
+                    "sha256": "0705571d81f74e60d8dbeb5bf3658bfc6c3d84cf27a67a30ee7de6a693fadb45"
                 }
             ]
         },
