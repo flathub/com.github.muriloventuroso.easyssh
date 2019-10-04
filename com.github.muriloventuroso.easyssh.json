@@ -20,6 +20,7 @@
         "--filesystem=~/.config/dconf:ro"
     ],
     "modules": [
+        "shared-modules/intltool/intltool-0.51.json",
         {
             "name": "libvte",
             "sources": [
