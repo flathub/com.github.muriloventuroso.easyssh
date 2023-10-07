@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.muriloventuroso.easyssh",
     "runtime": "org.gnome.Platform",
-    "runtime-version" : "43",
+    "runtime-version" : "45",
     "sdk": "org.gnome.Sdk",
     "command": "com.github.muriloventuroso.easyssh",
     "finish-args": [
@@ -22,8 +22,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/elementary/stylesheet.git",
-                    "tag": "6.1.1",
-                    "commit": "d590af0633bb1a311fee3756fcd7b5fdafa9c491"
+                    "tag": "7.2.0",
+                    "commit": "715f74608149d5b1cc139583f0a2d3ac44db2f24"
                 }
             ],
             "modules": [
@@ -83,8 +83,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/elementary/icons.git",
-                    "tag": "6.1.0",
-                    "commit": "c6cf4636ea0de92c3512242dbf4ec6fb33456b13"
+                    "tag": "7.3.1",
+                    "commit": "8598d278c2df21bc3dfb5b5a5a820b31c1845046"
                 }
             ],
             "modules": [
@@ -97,8 +97,8 @@
                     {
                         "type": "git",
                         "url": "https://gitlab.freedesktop.org/xorg/app/xcursorgen",
-                        "tag": "xcursorgen-1.0.7",
-                        "commit": "291d9a052aec0ad4a315c09a9af8b451c94ed57a"
+                        "tag": "xcursorgen-1.0.8",
+                        "commit": "21303eac3b67f39c24036cdd65860a223e779e5b"
                     }
                 ]
                 }
@@ -138,8 +138,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/muriloventuroso/easyssh.git",
-                    "tag": "1.7.8",
-                    "commit": "d029a52f36bcad7ae28765dc2bfdb819594bcd03"
+                    "tag": "1.7.9",
+                    "commit": "86b81fc4bff351642695ca1f427d109b6ec67226"
                 }
             ]
         }
