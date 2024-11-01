@@ -57,6 +57,10 @@
                     "url": "https://github.com/muriloventuroso/easyssh.git",
                     "tag": "1.7.9",
                     "commit": "86b81fc4bff351642695ca1f427d109b6ec67226"
+                },
+                {
+                    "type": "patch",
+                    "path": "fix-appdata.patch"
                 }
             ]
         }
